@@ -1,0 +1,1 @@
+web: build/install/ktor-ussd/bin/ktor-ussd
